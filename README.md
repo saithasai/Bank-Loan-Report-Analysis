@@ -90,3 +90,5 @@ To access vital loan data using loan portfolio, borrower profiles, and loan perf
   - Funded Amount by Employee Length: Employees with 10+ years of experience received the highest funded amounts.
   - Funded Amount by Purpose: Debt consolidation was the primary purpose for loans.
   - Funded Amount by Home Ownership : Loan request for rent is the highest.
+
+Live dashbaord link : https://app.powerbi.com/view?r=eyJrIjoiZjRjNjMwZDQtZmU5Yi00NTRkLWJiMzQtZDNlZGM2M2Y0ZTA0IiwidCI6IjNiN2YyODNhLWI1NzAtNGE5NS04ZTFmLTgwNzAwODAzODEwOSJ9
