@@ -7,7 +7,9 @@ The goal was to give insights into important loan-related variables and their ch
 ## Tools used:
 Microsoft Excel, Mysql Workbench, Microsoft Power BI  
 
-## KPIs created:   
+## KPIs created:     
+--- MTD (Month-to-Date): Refers to the cumulative total for the current month up to the current date.  
+--- MoM (Month-over-Month): Represents the percentage or absolute change compared to the previous month.
 - Total Loan Applications: Calculate the total number of loan applications received during a certain time period. Changes should be monitored both month-to-date (MTD) and month-over-month (MoM).  
 - Total Funded Amount: Determine the total amount of monies granted as loans. Display MTD and MoM changes.  
 - Total Amount Received: Monitor the total amount received from borrowers to determine the bank's cash flow from repayments. Examine MTD and MoM changes.   
