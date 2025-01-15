@@ -48,7 +48,7 @@ Microsoft Excel, Mysql Workbench, Microsoft Power BI
 To access vital loan data using loan portfolio, borrower profiles, and loan performance.  
 
 ### Details Dashboard
-<img width="758" alt="details" src="https://github.com/user-attachments/assets/415c21c2-906a-4d8f-92a1-f3da81fcb7f2" />
+<img width="758" alt="details" src="https://github.com/user-attachments/assets/3eeb720a-8e5c-4a10-8107-e490c3f75576" />
 
 ## KPI Findings:  
 - Total Loan Applications:
