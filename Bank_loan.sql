@@ -146,5 +146,3 @@ sum(loan_amount) as total_amount_funded,sum(total_payment) as total_amount_recei
 from financial_loan
 group by 1
 order by 2 desc;
-
-select distinct address_state from financial_loan
